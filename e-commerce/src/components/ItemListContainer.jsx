@@ -16,6 +16,8 @@ const ItemListContainer = () => {
                         <p className='price'>${product.price}</p>
 
                     </div>
+
+                    <button className='botonAddCart' type="button">Add to Cart</button>
                 </div>
             ))}
         </div>

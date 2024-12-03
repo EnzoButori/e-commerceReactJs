@@ -1,0 +1,25 @@
+.product-img{
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    margin: 10px;
+}
+
+.container-items{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    position: relative;
+}
+
+.item{
+    
+    margin: 20px;
+}
+
+.info-product{
+    margin: 10px;
+}
+
+.botonAddCart {
+    margin: 10px;
+}
