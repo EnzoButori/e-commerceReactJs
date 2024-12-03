@@ -2,7 +2,7 @@ import React from 'react'
 import { data } from '../data'
 import '../index.css'
 
-const ItemListContainer = () => {
+const ItemListContainer = ({bg, colorTexto}) => {
     return (
         <div className='container-items'>
             {data.map(product => (
@@ -17,7 +17,7 @@ const ItemListContainer = () => {
 
                     </div>
 
-                    <button className='botonAddCart' type="button">Add to Cart</button>
+                    <button style={{backgroundColor: bg, color: colorTexto}} className='botonAddCart' type="button">Add to Cart</button>
                 </div>
             ))}
         </div>

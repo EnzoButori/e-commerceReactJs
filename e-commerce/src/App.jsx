@@ -7,7 +7,7 @@ const App = () => {
     <>
       <div>
         <NavBar />
-        <ItemListContainer />
+        <ItemListContainer bg='gray' colorTexto='white' />
       </div>
     </>
     
