@@ -1,0 +1,66 @@
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px;
+    background: #846bdf;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+
+.navBar a{
+    position: relative;
+    font-size: 18px;
+    color: black;
+    margin-right: 40px;
+    text-decoration: none;
+}
+
+.navBar a::before {
+    content: '';
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: #000000;
+    transition: .3s;
+}
+
+.navBar a:hover::before {
+    width: 100%;
+}
+
+.brandName {
+    margin-right: 50px;
+}
+
+.CartWidget {
+    height: 40px;
+    width: 40px;
+    margin-right: 50px;
+    position: relative;
+}
+
+.count-products {
+	position: absolute;
+    top: 35px;
+    right: 65px;
+
+	background-color: #000;
+	color: #fff;
+	width: 25px;
+	height: 25px;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 50%;
+}
+
+#contador-productos {
+	font-size: 12px;
+}
