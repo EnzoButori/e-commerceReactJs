@@ -4,10 +4,13 @@ import ItemListContainer from './components/ItemListContainer'
 
 const App = () => {
   return (
-    <div>
-      <NavBar />
-      <ItemListContainer />
-    </div>
+    <>
+      <div>
+        <NavBar />
+        <ItemListContainer />
+      </div>
+    </>
+    
   )
 }
 
