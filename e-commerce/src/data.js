@@ -15,7 +15,7 @@ export const data = [
     },
     {
         id: 3,
-        nameProduct: 'EFLBAR 20000',
+        nameProduct: 'ELFBAR 20000',
         price: 27000,
         urlImage: 'https://imgs.search.brave.com/7_CvEpWauu6BoZkwLfNhOfW4pKpgiju1uw6Xa6wBypA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZWxmYmFydmFwZS5l/dS9pbWcvNzQ0MDEv/RUJCQzIwR0U1LzQ0/MHg0NDAsci9lbGYt/YmFyLWJjMjAwMDAt/dG91Y2gtZGlzcG9z/YWJsZS12YXBlLTIw/MDAwLXB1ZmZzLWdy/YXBlLWVuZXJneS53/ZWJwP3RpbWU9MTcy/NTg4MzI5MQ',
         quantity: 1,

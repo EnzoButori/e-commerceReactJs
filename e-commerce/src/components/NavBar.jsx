@@ -8,8 +8,8 @@ const NavBar = () => {
         <nav className='navBar'>
             <a href="/">Home</a>
             <a href="/">About</a>
-            <a href="/">Products</a>
             <a href="/">Contact</a>
+            <a href="/">Vapes</a>
         </nav>
 
         <h1 className='brandName'>VaporMax</h1>
