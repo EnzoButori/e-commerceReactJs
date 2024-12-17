@@ -1,15 +1,16 @@
 import React from 'react'
 import CartWidget from './CartWidget'
 import './NavBar.css'
+import { Link } from 'react-router'
 
 const NavBar = () => {
   return (
     <header className='header'>
         <nav className='navBar'>
-            <a href="/">Home</a>
-            <a href="/">About</a>
-            <a href="/">Contact</a>
-            <a href="/">Vapes</a>
+            <NavLink to='/home' style='' >Home</NavLink>
+            <NavLink to='/about'>About</NavLink>
+            <NavLink to='/contact'>Contact</NavLink>
+            <NavLink to='/vapes'>Vapes</NavLink>
         </nav>
 
         <h1 className='brandName'>VaporMax</h1>
