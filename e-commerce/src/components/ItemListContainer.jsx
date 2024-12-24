@@ -17,7 +17,7 @@ const ItemListContainer = ({bg, colorTexto}) => {
 
                     </div>
 
-                    <button style={{backgroundColor: bg, color: colorTexto}} className='botonAddCart' type="button">Add to Cart</button>
+                    <button as={Link} to={'/item/id'} style={{backgroundColor: bg, color: colorTexto}} className='botonDetail' type="button">Ver Detalles</button>
                 </div>
             ))}
         </div>

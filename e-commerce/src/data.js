@@ -6,6 +6,7 @@ export const data = [
         urlImage: 'https://imgs.search.brave.com/uDJkoX8e1SfYQdn8yH8F37l0s2f9nCyHbvx_Jom1lvg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZS52YXBlc291cmNp/bmcuY29tL2ltYWdl/Y2FjaGUvODAwL2lt/YWdlcy8yMDI0MDMv/d290b2ZvLW5leGJh/ci0xLmpwZw',
         quantity: 1,
         category: 'descartable',
+        detail: 'El Wotofo NexBar 16K es un dispositivo de vapeo desechable que ofrece hasta 16.000 caladas, gracias a su capacidad de 20 ml de e-líquido con opciones de nicotina de 20 mg/ml o 50 mg/ml. Cuenta con una batería recargable de 500 mAh con puerto USB tipo C y una pantalla que muestra el nivel de líquido y batería. Además, ofrece tres modos de vapeo: ECO, NORMAL y TURBO, adaptándose a las preferencias del usuario. Su diseño compacto y ergonómico lo convierte en una opción ideal para una experiencia de vapeo prolongada y cómoda.',
     },
     {
         id: 2,
@@ -14,6 +15,7 @@ export const data = [
         urlImage: 'https://imgs.search.brave.com/0iUwehfDgAo3ZYUXE0pM2z8gstSrSvlgfT4pZjNNTQQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/dmFwZWp1bmN0aW9u/LmNvLnphL2Nkbi9z/aG9wL2ZpbGVzL0Vs/Zi1CYXItQkMxMDAw/MC1CbGFja2JlcnJ5/LUNyYW5iZXJyeS1T/dW5pdC5qcGc_dj0x/NzAxNDM4MTY2Jndp/ZHRoPTEyMDA',
         quantity: 1,
         category: 'descartable',
+        detail: 'El Elf Bar BC10000 es un dispositivo de vapeo desechable que ofrece hasta 10.000 caladas, gracias a su capacidad de 18 ml de e-líquido con una concentración de nicotina del 5% (50 mg). Equipa una batería recargable de 650 mAh con puerto USB tipo C (cable no incluido) y cuenta con una pantalla que indica el nivel de líquido y batería, permitiendo al usuario monitorear el estado del dispositivo. Su diseño compacto y ergonómico facilita su uso y transporte, ofreciendo una experiencia de vapeo prolongada y satisfactoria.',
     },
     {
         id: 3,
@@ -22,6 +24,7 @@ export const data = [
         urlImage: 'https://imgs.search.brave.com/7_CvEpWauu6BoZkwLfNhOfW4pKpgiju1uw6Xa6wBypA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZWxmYmFydmFwZS5l/dS9pbWcvNzQ0MDEv/RUJCQzIwR0U1LzQ0/MHg0NDAsci9lbGYt/YmFyLWJjMjAwMDAt/dG91Y2gtZGlzcG9z/YWJsZS12YXBlLTIw/MDAwLXB1ZmZzLWdy/YXBlLWVuZXJneS53/ZWJwP3RpbWU9MTcy/NTg4MzI5MQ',
         quantity: 1,
         category: 'descartable',
+        detail: 'El Elf Bar BC20000 Touch es un dispositivo de vapeo desechable que ofrece hasta 20.000 caladas, gracias a su capacidad de 20 ml de e-líquido con una concentración de nicotina del 5%. Equipa una batería recargable de 750 mAh con puerto USB tipo C y cuenta con una pantalla táctil que permite seleccionar entre tres modos de vapeo: Lite (12W), Smooth (17W) y Turbo (30W). Además, dispone de flujo de aire ajustable y utiliza resistencias de malla doble para mejorar la experiencia de vapeo.',
     },
     {
         id: 4,
@@ -30,6 +33,7 @@ export const data = [
         urlImage: 'https://imgs.search.brave.com/2E-AuzB0gZqpkALrmAw0oZcYQAnlk5jwyZn6X52M5Gg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sYXZh/cGVyaWEuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIzLzA2/L0lnbml0ZVY1MC5q/cGVn',
         quantity: 1,
         category: 'descartable',
+        detail: 'El Ignite V50 es un dispositivo de vapeo desechable que ofrece hasta 5.000 caladas, gracias a su capacidad de 7,5 ml de e-líquido con una concentración de nicotina del 5% (50 mg/ml). Equipa una batería recargable de 500 mAh con puerto USB tipo C, proporcionando una experiencia de vapeo prolongada y satisfactoria. Su diseño compacto y elegante lo hace fácil de transportar y utilizar, mientras que la tecnología de malla doble garantiza un sabor intenso en cada calada. Disponible en una variedad de sabores, el Ignite V50 se adapta a las preferencias de diferentes usuarios.',
     },
     {
         id: 5,
@@ -38,6 +42,7 @@ export const data = [
         urlImage: 'https://imgs.search.brave.com/6EY-4PJF9y-SutrXvmkm_nTCyKCYZGnpfw8VT2WX-rY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/c2lzdGVtYXdidXku/Y29tLmJyL2FycXVp/dm9zLzYxNzkzZDRm/NzFlNTc0NzNhOTNh/Mzc4ZTcyYzRkZjg4/L3Byb2R1dG9zLzY2/OTE0NWYyYWE5MWYv/cG9kLWlnbml0ZS12/MTUwLW1lbnRob2wt/Mi02Njk1MWI3NDZk/NzMyX21pbmkuanBn',
         quantity: 1,
         category: 'descartable',
+        detail: 'El Ignite V150 es un dispositivo de vapeo desechable que ofrece hasta 15.000 caladas, gracias a su capacidad de e-líquido prellenado y una batería recargable de 650 mAh con puerto USB tipo C. Equipa una pantalla inteligente que muestra el nivel de batería y de líquido, permitiendo al usuario monitorear el estado del dispositivo. Además, cuenta con tecnología de doble malla en sus resistencias de 1.4Ω, lo que mejora la producción de vapor y la intensidad del sabor. El V150 ofrece dos modos de vapeo: ECO y Boost, adaptándose a las preferencias del usuario. Su diseño compacto y elegante facilita su uso y transporte, brindando una experiencia de vapeo prolongada y satisfactoria.',
     },
     {
         id: 6,
@@ -46,6 +51,7 @@ export const data = [
         urlImage: 'https://imgs.search.brave.com/VGFew65W4fiqDXj-5htN6qzR-KWI4A-TejTTRX56FvI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pZGVh/dmFwZS5jby51ay9j/ZG4vc2hvcC9maWxl/cy9zbW9rLXNwYWNl/bWFuLXVsdHJhLXR1/cmJvLTE1MDAwLXZh/cGUuanBnP3Y9MTcx/MjkzMTEzNSZ3aWR0/aD02MDA',
         quantity: 1,
         category: 'descartable',
+        detail: 'El SMOK Spaceman Turbo 15K es un dispositivo de vapeo desechable que ofrece hasta 15.000 caladas en modo normal y 10.000 caladas en modo turbo. Cuenta con una batería recargable de 800 mAh y una capacidad de 16 ml de e-líquido con una concentración de nicotina del 5%. Dispone de una pantalla lateral que muestra el nivel de batería y de líquido, además de un botón para alternar entre los modos de uso. Su diseño compacto y elegante, junto con la tecnología de resistencia de malla, proporciona una experiencia de vapeo prolongada y satisfactoria. Está disponible en una variedad de sabores, como menta fresca, frambuesa azul con limón, cereza jugosa, limonada cítrica y una mezcla de durazno con bayas y un toque helado.',
     },
     {
         id: 7,
@@ -54,6 +60,7 @@ export const data = [
         urlImage: 'https://imgs.search.brave.com/6gvEWIiDuPdplpMXflg0dsyCJEqYMxdBw6Xg9JFdeUk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9lYmNy/ZWF0ZS5zdG9yZS9j/ZG4vc2hvcC9maWxl/cy9Mb3N0LU1hcnkt/TU8yMDAwMC1QUk8t/Qmx1ZS1SYXp6LUlj/ZS1WYXBlX2NlZDdl/YTkwLWFmY2YtNGM1/YS1hOTAzLWU2OTRm/NmMzMDdkMi5qcGc_/dj0xNzE0MTY3MTg5/JndpZHRoPTI0MDA',
         quantity: 1,
         category: 'descartable',
+        detail: 'El Lost Mary MO20000 Pro es un vape desechable avanzado que ofrece hasta 20.000 caladas gracias a su depósito de 18 ml de e-líquido con una concentración de nicotina del 5% (50 mg). Equipado con una batería recargable de 800 mAh y carga USB-C, garantiza sesiones de vapeo prolongadas. Su pantalla HD animada proporciona información en tiempo real, mientras que el flujo de aire ajustable en tres niveles y la potencia variable entre 13W y 25W permiten personalizar la experiencia. Además, cuenta con una resistencia de doble malla de 0,9 ohmios que asegura un calentamiento uniforme y un sabor rico en cada calada.',
     },
     {
         id: 8,
@@ -62,6 +69,7 @@ export const data = [
         urlImage: 'https://imgs.search.brave.com/LSIWLTpKx3AVp7ph9ZhVO-qEPqVyGqrWniXseKSyL6c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/c2lzdGVtYXdidXku/Y29tLmJyL2FycXVp/dm9zLzYxNzkzZDRm/NzFlNTc0NzNhOTNh/Mzc4ZTcyYzRkZjg4/L3Byb2R1dG9zLzY1/Mzk5OWJjYWFjNDYv/MzkyNTYzZTA0YmU5/NzNlMDIxOTFhNDE0/Zjc1M2U2NzgtNjUz/OTk5YmU1NDUxMV9t/aW5pLmpwZw',
         quantity: 1,
         category: 'descartable',
+        detail: 'El NIKBAR 12000 es un dispositivo de vapeo desechable que ofrece hasta 12.000 caladas, gracias a su capacidad de 20 ml de e-líquido con una concentración de nicotina de 20 mg/ml. Equipado con una batería recargable de 600 mAh y puerto de carga USB tipo C, garantiza una experiencia de vapeo prolongada. Su diseño compacto y ergonómico, junto con una variedad de sabores disponibles, lo convierten en una opción conveniente y satisfactoria para los usuarios que buscan una solución de vapeo duradera y sin complicaciones. ',
     },
     {
         id: 9,
@@ -70,6 +78,7 @@ export const data = [
         urlImage: 'https://imgs.search.brave.com/5SqNvA_LGtUFAhf4OqfepuMkY3yh37K9NdhbCQ2sh4k/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly92YXBl/Y2l0eXVzYS5jb20v/Y2RuL3Nob3AvZmls/ZXMvR2Vla19CYXJf/UHVsc2VfMTUwMDBf/RGlzcG9zYWJsZV9W/YXBlX0J1bmRsZV9i/dW5kbGVzXzg3Njg1/MDA3LTdhN2UtNDgx/Ny1iZmI4LWJjZTcw/MmZkZjNlOC53ZWJw/P3Y9MTcwMDU0NjI5/MyZ3aWR0aD00ODA',
         quantity: 1,
         category: 'descartable',
+        detail: 'El GEEK BAR 15000 es un vape desechable diseñado para ofrecer hasta 15.000 caladas, gracias a su capacidad de 16 ml de e-líquido con una concentración de nicotina del 5%. Cuenta con una batería recargable de 650 mAh con puerto USB-C, y su tecnología de doble malla asegura un sabor más intenso y una producción de vapor óptima. Además, incluye una pantalla LED que muestra el nivel de batería y líquido restante, combinando funcionalidad con un diseño ergonómico y compacto.',
     },
     {
         id: 10,
@@ -78,5 +87,6 @@ export const data = [
         urlImage: 'https://imgs.search.brave.com/CG3ne_HBe3VySOBryziyVgPeyuD7y3qJuEhWTT6vax0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZS52YXBlc291cmNp/bmcuY29tL2ltYWdl/Y2FjaGUvODAwL2lt/YWdlcy8yMDIxMDUv/VmFwb3Jlc3NvX0dU/WF9Hb180MF8zLmpw/Zw',
         quantity: 1,
         category: 'recargable',
+        detail: 'El Vaporesso GTX GO 40 es un dispositivo de vapeo tipo bolígrafo que combina simplicidad y rendimiento. Cuenta con una batería integrada de 1500 mAh y una potencia máxima de 40 W, ofreciendo una experiencia de vapeo prolongada y satisfactoria. Su cápsula magnética GTX POD 22 tiene una capacidad de 3,5 ml y un sistema de llenado superior, facilitando el recambio de e-líquido. La tecnología SSS a prueba de fugas garantiza un uso limpio y sin derrames. Además, es compatible con las resistencias de la serie GTX, permitiendo personalizar la experiencia según las preferencias del usuario. El dispositivo se carga rápidamente a través de un puerto USB tipo C, asegurando que esté listo para usar en poco tiempo.',
     },
 ];
